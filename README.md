@@ -4,7 +4,7 @@
 
 ## Description
 
-![Overview](figure\Overview.png)
+![Overview](figure/Overview.png)
 
 ## Getting Started
 
